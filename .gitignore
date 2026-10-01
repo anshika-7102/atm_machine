@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node dependencies (keep frontend/dist for 1-click FastAPI serving)
+frontend/node_modules/
+frontend/.npm/
+
+# Secrets and environment configs
+.env
+*.pem
+*.key
+
+# IDE & Editor caches
+.vscode/
+.idea/
+.claude/
+.rocketride/
+*.log
+Thumbs.db
+.DS_Store

@@ -1,0 +1,21 @@
+atm_id,atm_name,city,address,latitude,longitude,location_type,installation_date,max_cash_capacity,min_safety_stock,avg_daily_demand,max_daily_demand,is_cash_recycler,status
+74,Tinkoff Flagship Branch - Nikolskaya,Moscow,"Nikolskaya St, 10, Moscow",55.757,37.6215,Bank Branch,2017-08-16,15000.0,2500.0,1260.73,4922.41,True,Active
+85,Evropeiskiy Shopping Mall,Moscow,"Kiyevskogo Vokzala Square, 2, Moscow",55.7447,37.5663,Shopping Mall,2017-08-03,12000.0,2000.0,718.1,2254.95,True,Active
+86,Okhotny Ryad Underground Mall,Moscow,"Manezhnaya Sq, 1, Moscow",55.7558,37.6173,Shopping Mall,2017-08-01,10000.0,1800.0,348.07,1305.37,True,Active
+87,Sheremetyevo Airport Terminal D,Moscow,"Sheremetyevo Airport, Khimki, Moscow Oblast",55.9667,37.4147,Airport,2017-06-09,12000.0,2000.0,600.98,2039.35,True,Active
+88,Domodedovo Airport Terminal,Moscow,"Domodedovo Airport, Domodedovsky District",55.4146,37.9005,Airport,2017-08-14,10000.0,1800.0,574.22,2261.96,True,Active
+90,Moscow City IFC - Federation Tower,Moscow,"Presnenskaya Embankment, 12, Moscow",55.7495,37.5371,Business Center,2017-07-27,14000.0,2200.0,671.38,1985.28,True,Active
+91,Komsomolskaya Metro Station Transit Hub,Moscow,"Komsomolskaya Square, Moscow",55.7761,37.6558,Metro Station,2017-07-19,15000.0,2500.0,752.37,2432.02,True,Active
+93,Afimall City Shopping Mall,Moscow,"Presnenskaya Embankment, 2, Moscow",55.7486,37.5398,Shopping Mall,2017-08-12,10000.0,1800.0,725.81,3113.55,True,Active
+94,Kievskaya Metro Station Interchange,Moscow,"Kiyevskogo Vokzala Sq, Moscow",55.7431,37.5658,Metro Station,2017-08-10,12000.0,2000.0,497.97,1419.3,True,Active
+96,Vnukovo Airport Terminal A,Moscow,"Vnukovo Airport, 2-ya Reysovaya, Moscow",55.6031,37.2886,Airport,2017-07-28,8000.0,1500.0,369.18,1577.04,True,Active
+97,Belorusskaya Metro & Aeroexpress,Moscow,"Tverskaya Zastava Sq, 7, Moscow",55.777,37.5828,Metro Station,2017-08-16,12000.0,2000.0,583.23,1555.95,True,Active
+98,Taganskaya Metro Station Plaza,Moscow,"Taganskaya Sq, Moscow",55.7405,37.6533,Metro Station,2017-08-17,8000.0,1500.0,334.73,1307.75,True,Active
+99,Atrium Mall - Kursky Station,Moscow,"Zemlyanoy Val St, 33, Moscow",55.7575,37.6592,Shopping Mall,2017-08-16,12000.0,2000.0,610.08,1875.79,True,Active
+100,Tverskaya High Street Promenade,Moscow,"Tverskaya St, 15, Moscow",55.7644,37.6056,High Street Retail,2017-08-11,10000.0,1800.0,594.56,2129.78,True,Active
+101,Arbat Commercial & Cultural District,Moscow,"Arbat St, 24, Moscow",55.7498,37.5922,High Street Retail,2017-08-11,10000.0,1800.0,498.18,2168.88,True,Active
+102,Savelovsky Transit & Tech Market,Moscow,"Sushchyovsky Val, 5, Moscow",55.7944,37.5886,Retail Market,2017-08-02,12000.0,2000.0,547.1,1872.31,True,Active
+103,Nevsky Prospect Central Branch,Saint Petersburg,"Nevsky Prospect, 68, Saint Petersburg",59.9343,30.3351,Bank Branch,2017-08-08,14000.0,2200.0,667.59,1790.47,True,Active
+104,Galeria Mall - Moskovsky Vokzal,Saint Petersburg,"Ligovsky Ave, 30A, Saint Petersburg",59.9275,30.36,Shopping Mall,2017-08-07,12000.0,2000.0,531.29,1899.08,True,Active
+105,Pulkovo Airport Arrivals,Saint Petersburg,"Pulkovskoye Shosse, 41, Saint Petersburg",59.8003,30.2625,Airport,2017-07-28,10000.0,1800.0,530.64,2712.38,True,Active
+106,Sennaya Square Metro Interchange,Saint Petersburg,"Sennaya Sq, Saint Petersburg",59.9269,30.3181,Metro Station,2017-08-09,6000.0,1200.0,115.94,531.29,True,Active

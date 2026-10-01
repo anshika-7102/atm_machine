@@ -1,0 +1,42 @@
+[
+  {
+    "Model":"XGBoost (Tuned)",
+    "MAE":220.21,
+    "RMSE":326.69,
+    "WAPE (%)":25.66,
+    "MAPE (%)":46.86,
+    "Forecast Accuracy (%)":74.34
+  },
+  {
+    "Model":"Random Forest",
+    "MAE":271.17,
+    "RMSE":391.61,
+    "WAPE (%)":31.6,
+    "MAPE (%)":55.4,
+    "Forecast Accuracy (%)":68.4
+  },
+  {
+    "Model":"Baseline: 7-Day Moving Avg",
+    "MAE":328.93,
+    "RMSE":472.89,
+    "WAPE (%)":38.33,
+    "MAPE (%)":69.24,
+    "Forecast Accuracy (%)":61.67
+  },
+  {
+    "Model":"Baseline: Seasonal Naive (t-7)",
+    "MAE":337.2,
+    "RMSE":502.47,
+    "WAPE (%)":39.29,
+    "MAPE (%)":56.28,
+    "Forecast Accuracy (%)":60.71
+  },
+  {
+    "Model":"Baseline: Naive (t-1)",
+    "MAE":393.41,
+    "RMSE":589.88,
+    "WAPE (%)":45.84,
+    "MAPE (%)":74.17,
+    "Forecast Accuracy (%)":54.16
+  }
+]
